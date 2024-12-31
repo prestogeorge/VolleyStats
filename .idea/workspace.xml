@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddbfb2fe-e902-4933-b7d0-e922d7cf0f96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/VolleyStats.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volleystats/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volleystats/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volleystats/hello.py" afterDir="false" />
+    <list default="true" id="ddbfb2fe-e902-4933-b7d0-e922d7cf0f96" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/volleystats/api/game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volleystats/api/game/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volleystats/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/volleystats/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.Flask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.flask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Shell Script.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/prest/PycharmProjects/VolleyStats/volleystats&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.Flask.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.flask.executor": "Run",
+    "Python.hello.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.Unnamed.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/prest/PycharmProjects/VolleyStats/volleystats"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\prest\PycharmProjects\VolleyStats" />
@@ -64,7 +60,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
+    <configuration name="flask" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="flask run" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="" />
@@ -96,6 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735607121013</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1735630087471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735630087471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
