@@ -1,7 +1,7 @@
 from flask import Blueprint
 
-hello_bp = Blueprint('hello', __name__)
+auth_bp = Blueprint('auth', __name__)
 
-@hello_bp.route('/')
+@auth_bp.route('/')
 def hello():
     return 'hello'
